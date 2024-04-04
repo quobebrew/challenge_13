@@ -28,11 +28,12 @@ The project is divided into several key steps:
    - Evaluate the performance of each alternative model and compare the results.
    - Save each optimized model as an HDF5 file.
 
-## Files included
+## Files included in Resources folder
 - **`AlphabetSoup.h5`:** HDF5 file containing the optimized parameters of the original model.
 - **`AlphabetSoup_A1.h5`:** HDF5 file containing the optimized parameters of the first alternative model.
 - **`AlphabetSoup_A2.h5`:** HDF5 file containing the optimized parameters of the second alternative model.
 - **`README.md`:** This file, providing an overview of the project, its structure, and key steps.
+- ** `applicants_data.csv` file contains dataset of applicants information
 
 
 ## Dependencies
